@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="left">About me</h1>
+A dedicated Frontend Developer based in Iran with a strong passion for crafting intuitive and visually appealing digital experiences. With a solid foundation in React.js and Next.js, I specialize in turning creative ideas into functional and user-friendly web applications.
+<br></br>
 
-<!--
-**Reza-Razeghi/Reza-Razeghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you have an exciting project or would like to collaborate, feel free to reach out to me at **Razeghi.Reza@yahoo.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,ts,nextjs,redux,nodejs,materialui,sass,less,git,figma,threejs,mongodb,mysql,vite,vitest,vercel,npm" />
+</a></p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reza-razeghi&show_icons=true&locale=en&layout=compact" alt="reza-razeghi" />
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/in/reza-razeghi" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
