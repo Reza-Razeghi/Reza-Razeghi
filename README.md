@@ -1,6 +1,6 @@
 <img src="./Js_banner.gif"/>
 
- <h1 align="left"><img width="100px" src="./coding_gif.gif"/>
+ <h1 align="left">
  About me</h1>
 A dedicated Frontend Developer based in Iran with a strong passion for crafting intuitive and visually appealing digital experiences. With a solid foundation in React.js and Next.js, I specialize in turning creative ideas into functional and user-friendly web applications.
 <br></br>
@@ -16,9 +16,9 @@ If you have an exciting project or would like to collaborate, feel free to reach
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,ts,nextjs,redux,nodejs,materialui,sass,less,git,figma,threejs,mongodb,mysql,vite,vitest,vercel,npm" />
 </a></p>
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reza-razeghi&show_icons=true&locale=en&layout=compact" alt="reza-razeghi" />
-</p>
+</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
