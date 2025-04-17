@@ -1,8 +1,11 @@
+<img src="![Js_banner](https://github.com/user-attachments/assets/7e2ecc10-d112-46df-aae9-959f57fb5643)
+"/>
 <h1 align="left">About me</h1>
 A dedicated Frontend Developer based in Iran with a strong passion for crafting intuitive and visually appealing digital experiences. With a solid foundation in React.js and Next.js, I specialize in turning creative ideas into functional and user-friendly web applications.
 <br></br>
 
 If you have an exciting project or would like to collaborate, feel free to reach out to me at **Razeghi.Reza@yahoo.com**
+<hr></hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
